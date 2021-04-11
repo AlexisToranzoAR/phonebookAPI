@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwNzM3NDY1OTM1MTlhMTljMDliYmVjZSIsInVzZXJuYW1lIjoiYWxleGlzdG9yYW56byIsImlhdCI6MTYxODE3OTE4MSwiZXhwIjoxNjE4NzgzOTgxfQ.q5lJ94oPr-KMp41nM-HdVCGF9ieFHlWaWWljbyqJ-mw
+
+{
+	"name": "Daniela",
+	"number": 293257852232
+}
